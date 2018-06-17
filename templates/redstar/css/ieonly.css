@@ -1,0 +1,10 @@
+#top-banner p {
+	letter-spacing: .05em;
+}
+h1#logo {
+	width: 100%;		
+}
+ul.menu li  {
+	padding-top: 5px;
+	height: 23px;
+}

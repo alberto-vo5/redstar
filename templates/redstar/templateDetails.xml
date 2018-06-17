@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="2.5" type="template" client="site">
+	<name>Redstar</name>
+	<creationDate>01 March 2012</creationDate>
+	<author>Albert Thomas</author>
+	<authorEmail>albert@studiozang.com</authorEmail>
+	<authorUrl>http://studiozang.com</authorUrl>
+	<copyright>Copyright (C) 2012 All rights reserved.</copyright>
+	<license>None</license>
+	<version>1.0</version>
+	<description>Redstar Properties Joomla Template</description>
+
+	<files>
+		<folder>css</folder>
+		<folder>images</folder>
+		<folder>js</folder>
+		<folder>fonts</folder>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+	</files>
+
+	<positions>
+		<position>debug</position>
+		<position>banner</position>
+		<position>rotator</position>
+		<position>menu</position>
+	</positions>
+
+</extension>
